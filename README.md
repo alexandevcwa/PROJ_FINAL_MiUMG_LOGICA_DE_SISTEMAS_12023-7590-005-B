@@ -12,3 +12,7 @@ Este proyecto esta orientado para un sistema de riego automático con sensores d
 * Mini bomba
 * sensor de humedad  DHT11
 * Manguera (que se acople con la mini bomba)
+
+---
+## Diagrama Arduino UNO
+![Diagrama ARDUINO UNO - Thinkerkad](Diagrama_THINKERKAD_REF_06012023.png)

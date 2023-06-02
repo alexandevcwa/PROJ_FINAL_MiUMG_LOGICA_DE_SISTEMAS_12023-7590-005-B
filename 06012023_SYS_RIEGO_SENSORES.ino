@@ -53,7 +53,7 @@ void regado(){
     _dht11.read(DHT11_PIN);
     valor_h_sensor = _dht11.humidity;
     
-    msg = "[DATA:SENSOR] ";
+    msg = "[DATA:SENSOR H] ";
     msg += String(valor_h_sensor);
     Serial.println(msg);
     
